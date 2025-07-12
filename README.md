@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...electronics
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...everything
-- 📫 How to reach me ...findme on insta@tht_xpb
+- 📫 How to reach me ...findme somewhere 
 
 <!---
 anoninfo/anoninfo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
